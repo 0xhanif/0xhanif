@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Github Profile Header Generator -->
   <!-- https://leviarista.github.io/github-profile-header-generator/ -->
-  <img src="https://raw.githubusercontent.com/0xhanif/0xhanif/main/assets/github-header.png" width="600" height="100" alt="Profile Header">
+  <img src="https://raw.githubusercontent.com/0xhanif/0xhanif/main/assets/github-header-image.png" width="600" height="100" alt="Profile Header">
 </div>
 
 <div align="center">
