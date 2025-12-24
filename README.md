@@ -19,9 +19,7 @@
 ## // About me
 
 - I am still studying for my degree in Computer Science
-- Interested in learning about Cyber Security, Programming, Cloud and Networking
-- In my free time, I enjoy reading articles and learning new technology
-- I like to write articles on various technology-related topics, which can found on [Blog](https://0xhanif.github.io/)
+- Interested in learning about Cybersecurity, Programming, Cloud and Networking
 
 ## // Quote of the day
 
