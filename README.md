@@ -18,18 +18,19 @@
 
 ## // About me
 
-- I am still studying for my degree in Computer Science
-- Interested in learning about Cybersecurity, Programming, Cloud and Networking
+- Currently pursuing a Bachelor Degree in Computer Science
+- Passionate about Cybersecurity, Cloud, Networking, DevOps and Open Source
+- Continuously learning new technologies
 
 ## // Quote of the day
 
 <!-- Github Readme Quotes -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote Card">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&border=true" alt="Quote Card">
 </a>
 
 ## // Connect with me
 
 <!-- https://shields.io/badges/static-badge -->
 <!-- Format: https://img.shields.io/badge/text-color.svg?&style=for-the-badge&logo=logo&logoColor=color -->
-[![Linkedin Badge](https://img.shields.io/badge/muhamad--hanif-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-hanif-zulkifli/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-hanif-zulkifli/)
